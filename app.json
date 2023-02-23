@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "chat-gpt",
+    "slug": "chat-gpt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
