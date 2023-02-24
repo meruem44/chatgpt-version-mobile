@@ -1,0 +1,20 @@
+import { useMemo } from "react"
+
+# ChatGPT Versão Mobile
+
+Com o grande aumento na popularidade do ChatGPT, decidi a fins de estudos e possivelmente no futuro um mvp;
+criar uma versao mobile com o react native para usar a api do openai.
+
+## O app foi contruido utilizando o Expo com as seguintes ferramentas 🚧:
+
+"@expo-google-fonts/open-sans": "^0.2.3",
+"openai": "^3.1.0",
+"react-hook-form": "^7.43.2",
+"react-native-reanimated": "^2.14.4",
+"react-native-responsive-fontsize": "^0.5.1",
+"react-native-svg": "^13.8.0",
+"react-native-svg-transformer": "^1.0.0",
+"react-native-url-polyfill": "^1.3.0",
+"use-context-selector": "^1.4.1"
+
+## Segue um video do resultado final do projeto:
